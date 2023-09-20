@@ -1,0 +1,10 @@
+.footer-container{
+    text-align: center;
+    padding: 200px;
+}
+.footer-container .location{
+    font-size: 18vw;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Bodoni moda", serif;
+}

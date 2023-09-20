@@ -1,0 +1,35 @@
+.header{
+    position: relative;
+}
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap");
+.header .header-menu{
+    position: absolute;
+    left: 0;
+    top: 10px;
+    letter-spacing: 1px;
+    font-family: "Syncopate" sans-serif;
+    color: #626262;
+    text-transform: uppercase;
+
+}
+.header .header-menu li{
+    margin: 10px 0;
+    font-family: "Syncopate" , sans-serif ;
+    list-style-type: none ;
+    font-weight: 600
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@700&family=Merriweather:ital,wght@1,700&display=swap');
+
+#header-text{
+font-size: 16vw ;
+text-align: center ;
+font-family: "Bai Jamjuree", sans-serif ;
+font-weight: 600;
+}
+.lineParent{
+    overflow: hidden;
+}
+.lineChildren{
+    transform: translate(0,500px);
+}
